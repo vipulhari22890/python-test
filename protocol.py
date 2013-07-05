@@ -1,4 +1,5 @@
 '''
+git has a neat python editor
 WORKER PROTOCOL BASE
 -------------------------------------------------------------------------------
 The data acquisition protocols, which worker sub-processes use to acquire data,
